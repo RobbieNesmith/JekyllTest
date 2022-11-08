@@ -1,6 +1,6 @@
 # Site settings
 title: Robbie's Test Jekyll Site
-baseurl: "/JekyllTest/" # the subpath of your site, e.g. /blog/
+baseurl: "/JekyllTest" # the subpath of your site, e.g. /blog/
 url: "https://robbies.club" # the base hostname & protocol for your site
 
 # Build settings
